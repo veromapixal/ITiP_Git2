@@ -6,3 +6,4 @@ elif num == 0:
 elif num < 0:
     print('Negative')
 print('answer is given')
+print(num * 5)
